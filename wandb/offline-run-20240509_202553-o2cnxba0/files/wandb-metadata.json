@@ -1,0 +1,80 @@
+{
+    "os": "Linux-5.15.0-105-generic-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2024-05-09T14:55:53.862603",
+    "startedAt": "2024-05-09T14:55:53.639405",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "main.py",
+    "codePathLocal": "main.py",
+    "codePath": "main.py",
+    "git": {
+        "remote": "https://git-codecommit.ap-south-1.amazonaws.com/v1/repos/dell_data_pipeline",
+        "commit": "6fc0a87922c5c40d8d91c44721c1f090aa5aa849"
+    },
+    "email": "terli.teja@wipro.com",
+    "root": "/home/saiteja/dell_data_pipeline",
+    "host": "saiteja-Latitude-5310",
+    "username": "saiteja",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2337.5278749999998,
+        "min": 400.0,
+        "max": 4400.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2813.634,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        },
+        {
+            "current": 2200.0,
+            "min": 400.0,
+            "max": 4400.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 245.4232521057129,
+            "used": 205.86801147460938
+        }
+    },
+    "memory": {
+        "total": 15.307235717773438
+    }
+}

@@ -1,0 +1,15 @@
+names:
+  0: chair
+  1: kite
+  2: tv
+  3: bed
+  4: handbag
+  5: dining table
+  6: airplane
+  7: bird
+  8: person
+  9: laptop
+  10: tie
+nc: 11
+train: /home/saiteja/dell_data_pipeline/train
+val: /home/saiteja/dell_data_pipeline/val/
